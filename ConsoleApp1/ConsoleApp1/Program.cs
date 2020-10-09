@@ -11,11 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Git");
-            Console.WriteLine("Cummit 2");
-
-            Console.WriteLine("Cummit 3");
-
-            Console.WriteLine("Cummit 4");
+          
         }
     }
 }
